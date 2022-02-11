@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="C_StringToArray:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/C_StringToArray_jar</output-path>
+    <root id="archive" name="C_StringToArray.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resource/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="MyTool" />
+    </root>
+  </artifact>
+</component>
