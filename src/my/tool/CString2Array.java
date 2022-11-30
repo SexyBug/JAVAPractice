@@ -6,10 +6,8 @@ public class CString2Array {
 
     public static void main(String[] args) {
 	    // write your code here
-        while (true){
-            //DealOneString2Array();
-            DealOneArray2String();
-        }
+        DealOneString2Array();
+        //DealOneArray2String();
        // System.out.println(C_ArrayToString("0x4c,0xa0,0xda,0x50,0x8f,0x66,0xf9,0x42,0xa9,0x88,0xaa,0xe7,0x9f,0x28,0x08,0x01"));
     }
 
